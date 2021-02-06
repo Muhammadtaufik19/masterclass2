@@ -2,7 +2,7 @@
 const initialState = {
   todos: {
     id: 1,
-    product: "Sampo",
+    product: "Sikat gigi",
     harga: 10000,
   },
 };
