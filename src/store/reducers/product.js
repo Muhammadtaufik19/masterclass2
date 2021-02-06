@@ -3,6 +3,7 @@ const initialState = {
   todos: {
     id: 1,
     product: "Sampo",
+    harga: 10000,
   },
 };
 const productReducer = (state = initialState, action) => {
